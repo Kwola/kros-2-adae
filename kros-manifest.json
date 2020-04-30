@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "name": "adae",
+    "title": "ADAE",
+    "repository": "https://github.com/Kwola/kros-2-adae",
+    "frontend": "web",
+    "backend": "ruby",
+    "history": "template",
+    "purpose": "domain_specific",
+    "container": "docker"
+}
